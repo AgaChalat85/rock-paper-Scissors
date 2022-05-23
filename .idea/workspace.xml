@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="166f0cd4-4aae-4343-8cbd-29ed386082ae" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RockPaperScissorsGame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/akramarz/rockpaperscissorsgame/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/akramarz/rockpaperscissorsgame/enums/ConfirmationEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/akramarz/rockpaperscissorsgame/enums/MovesEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/akramarz/rockpaperscissorsgame/enums/ResultsEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/akramarz/rockpaperscissorsgame/game/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/akramarz/rockpaperscissorsgame/game/GameWarnings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/akramarz/rockpaperscissorsgame/game/RockPaperScissorsGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/akramarz/rockpaperscissorsgame/gui/GUICreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/akramarz/rockpaperscissorsgame/moves/MovesCombination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/akramarz/rockpaperscissorsgame/moves/MovesEvaluator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/akramarz/rockpaperscissorsgame/player/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/akramarz/rockpaperscissorsgame/player/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/akramarz/rockpaperscissorsgame/player/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/akramarz/rockpaperscissorsgame/round/Round.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/akramarz/rockpaperscissorsgame/score/Score.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/akramarz/rockpaperscissorsgame/validation/InputValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/de/akramarz/rockpaperscissorsgame/validation/ValidationResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/RockPaperScissorsGame-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/de/akramarz/rockpaperscissorsgame/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/de/akramarz/rockpaperscissorsgame/enums/ConfirmationEnum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/de/akramarz/rockpaperscissorsgame/enums/MovesEnum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/de/akramarz/rockpaperscissorsgame/enums/ResultsEnum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/de/akramarz/rockpaperscissorsgame/game/Game.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/de/akramarz/rockpaperscissorsgame/game/GameWarnings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/de/akramarz/rockpaperscissorsgame/game/RockPaperScissorsGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/de/akramarz/rockpaperscissorsgame/gui/GUICreator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/de/akramarz/rockpaperscissorsgame/moves/MovesCombination.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/de/akramarz/rockpaperscissorsgame/moves/MovesEvaluator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/de/akramarz/rockpaperscissorsgame/player/Computer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/de/akramarz/rockpaperscissorsgame/player/Human.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/de/akramarz/rockpaperscissorsgame/player/Player.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/de/akramarz/rockpaperscissorsgame/round/Round.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/de/akramarz/rockpaperscissorsgame/score/Score$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/de/akramarz/rockpaperscissorsgame/score/Score.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/de/akramarz/rockpaperscissorsgame/validation/InputValidation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/de/akramarz/rockpaperscissorsgame/validation/ValidationResponse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake2/src/main/java/SnakeGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake2/src/main/resources/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake2/src/main/resources/food.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake2/src/main/resources/gras.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake2/src/main/resources/mute.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake2/src/main/resources/snake.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Snake2/src/main/resources/unmute.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TicTacToe/src/main/java/com/kodilla/tictactoe/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TicTacToe/src/main/java/com/kodilla/tictactoe/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TicTacToe/src/main/java/com/kodilla/tictactoe/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TicTacToe/src/main/java/com/kodilla/tictactoe/game/GameState.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TicTacToe/src/main/java/com/kodilla/tictactoe/game/GameState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TicTacToe/src/main/java/com/kodilla/tictactoe/game/GameStateService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TicTacToe/src/main/java/com/kodilla/tictactoe/game/GameStateService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TicTacToe/src/main/java/com/kodilla/tictactoe/game/HighScores.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TicTacToe/src/main/java/com/kodilla/tictactoe/game/HighScores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TicTacToe/src/main/java/com/kodilla/tictactoe/game/PlayerScore.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TicTacToe/src/main/java/com/kodilla/tictactoe/game/PlayerScore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TicTacToe/src/main/java/com/kodilla/tictactoe/player/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TicTacToe/src/main/java/com/kodilla/tictactoe/player/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TicTacToe/src/main/java/com/kodilla/tictactoe/player/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TicTacToe/src/main/java/com/kodilla/tictactoe/player/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TicTacToe/src/main/java/com/kodilla/tictactoe/result/CheckWinner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TicTacToe/src/main/java/com/kodilla/tictactoe/result/CheckWinner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TicTacToe/src/main/java/com/kodilla/tictactoe/result/Combination.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TicTacToe/src/main/java/com/kodilla/tictactoe/result/Combination.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TicTacToe/src/main/java/com/kodilla/tictactoe/ui/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TicTacToe/src/main/java/com/kodilla/tictactoe/util/Dimensions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TicTacToe/src/main/resources/com/kodilla/tictactoe/application.css" beforeDir="false" afterPath="$PROJECT_DIR$/../TicTacToe/src/main/resources/com/kodilla/tictactoe/application.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TicTacToe/src/main/resources/com/kodilla/tictactoe/log4j2.xml.tld" beforeDir="false" afterPath="$PROJECT_DIR$/../TicTacToe/src/main/resources/com/kodilla/tictactoe/log4j2.xml.tld" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TicTacToe/src/main/resources/com/kodilla/tictactoe/start_scene_image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../amigoscode/src/main/java/de/akramarz/amigoscode/repository/StudentRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../amigoscode/src/main/java/de/akramarz/amigoscode/student/DbService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../amigoscode/src/main/java/de/akramarz/amigoscode/student/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../amigoscode/src/main/java/de/akramarz/amigoscode/student/StudentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../amigoscode/src/main/resources/templates/gui.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookApp/src/main/java/de/akramarz/bookapp/controller/BookController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookApp/src/main/java/de/akramarz/bookapp/domain/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookApp/src/main/java/de/akramarz/bookapp/domain/BookDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookApp/src/main/java/de/akramarz/bookapp/repository/BookRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookApp/src/main/java/de/akramarz/bookapp/service/DbService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookApp1/src/main/java/de/akramarz/bookapp1/controller/BookController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bookApp1/src/main/java/de/akramarz/bookapp1/controller/BookController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookApp1/src/main/java/de/akramarz/bookapp1/domain/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bookApp1/src/main/java/de/akramarz/bookapp1/domain/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookApp1/src/main/java/de/akramarz/bookapp1/repository/BookRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bookApp1/src/main/java/de/akramarz/bookapp1/repository/BookRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookApp1/src/main/java/de/akramarz/bookapp1/service/DbService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../bookApp1/src/main/java/de/akramarz/bookapp1/service/DbService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bookApp1/src/main/resources/templates/gui.html" beforeDir="false" afterPath="$PROJECT_DIR$/../bookApp1/src/main/resources/templates/gui.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cwiczenia/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/AgaChalat85.github.io/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/AgaChalat85.github.io/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/AgaChalat85.github.io/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/AgaChalat85.github.io/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/AgaChalat85.github.io/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/AgaChalat85.github.io/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../invoice/src/main/java/de/akramarz/invoice/Invoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../invoice/src/main/java/de/akramarz/invoice/Invoice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../invoice/src/main/java/de/akramarz/invoice/InvoiceServiece.java" beforeDir="false" afterPath="$PROJECT_DIR$/../invoice/src/main/java/de/akramarz/invoice/InvoiceServiece.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../invoice/src/main/java/de/akramarz/invoice/InvoiceServieceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../invoice/src/main/java/de/akramarz/invoice/InvoiceServieceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kodilla-powtorka/Rozdz2WstepDoKolekcji/src/main/java/Average.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kodilla-powtorka/Rozdz2WstepDoKolekcji/src/main/java/Average.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kodilla-powtorka/src/main/java/com/kodilla/goodpaterns/MovieStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kodilla-powtorka/src/main/java/com/kodilla/goodpaterns/MovieStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kodilla-powtorka/src/main/java/com/kodilla/goodpaterns/MovieStoreAppi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kodilla-powtorka/src/main/java/com/kodilla/goodpaterns/MovieStoreAppi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kodilla-powtorka/src/main/java/com/kodilla/hashmap/EntrySet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kodilla-powtorka/src/main/java/com/kodilla/hashmap/EntrySet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kodilla-powtorka/src/main/java/com/kodilla/petlafor/Average.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kodilla-powtorka/src/main/java/com/kodilla/petlafor/Average.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kodilla-powtorka/src/main/java/com/kodilla/stream/beautifier/BeautifierApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kodilla-powtorka/src/main/java/com/kodilla/stream/beautifier/BeautifierApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kodilla-powtorka/src/main/java/com/kodilla/stream/beautifier/PoemBeautifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kodilla-powtorka/src/main/java/com/kodilla/stream/beautifier/PoemBeautifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kodilla-powtorka/src/main/java/com/kodilla/stream/beautifier/PoemDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kodilla-powtorka/src/main/java/com/kodilla/stream/beautifier/PoemDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../studentsApp/src/main/java/de/akramarz/studentsapp/domain/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../studentsApp/src/main/java/de/akramarz/studentsapp/domain/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../studentsApp/src/main/java/de/akramarz/studentsapp/domain/StudentDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../studentsApp/src/main/java/de/akramarz/studentsapp/domain/StudentDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../studentsApp/src/main/java/de/akramarz/studentsapp/exception/GlobalHttpErrorHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../studentsApp/src/main/java/de/akramarz/studentsapp/exception/GlobalHttpErrorHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../studentsApp/src/main/java/de/akramarz/studentsapp/exception/StudentNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../studentsApp/src/main/java/de/akramarz/studentsapp/exception/StudentNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../studentsApp/src/main/java/de/akramarz/studentsapp/mapper/StudentMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../studentsApp/src/main/java/de/akramarz/studentsapp/mapper/StudentMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../studentsApp/src/main/java/de/akramarz/studentsapp/repository/StudentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../studentsApp/src/main/java/de/akramarz/studentsapp/repository/StudentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../studentsApp/src/main/java/de/akramarz/studentsapp/service/DbService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../studentsApp/src/main/java/de/akramarz/studentsapp/service/DbService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tasks/src/main/java/com/crud/tasks/domain/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tasks/src/main/java/com/crud/tasks/domain/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tasks/src/main/java/com/crud/tasks/domain/TaskDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../tasks/src/main/java/com/crud/tasks/domain/TaskDto.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="29Eha46sBI86y2FrbwaYGx6tRQe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.akramarz.rockpaperscissorsgame.Main" />
+      <module name="RockPaperScissorsGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.akramarz.rockpaperscissorsgame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="166f0cd4-4aae-4343-8cbd-29ed386082ae" name="Changes" comment="" />
+      <created>1652684212107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652684212107</updated>
+      <workItem from="1652684213360" duration="456000" />
+      <workItem from="1652684687954" duration="954000" />
+      <workItem from="1653305578810" duration="1971000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
